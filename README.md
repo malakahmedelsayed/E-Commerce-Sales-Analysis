@@ -1,12 +1,5 @@
 
 # E-Commerce Sales Data Analysis
-## Team Members
-- [ Malak rafaat 23011557] Data Understanding, Data Quality and Preprocessing
-- [malak ahmed 23011556]  Product, Pricing and Discount Analytics
-- [Madawi mohammed 23011923] Returns, Feedback, Inventory, Suppliers and External Context
-- [malak rabie 23011558]  Feature Engineering, Univariate EDA and Customer Analytics
-- [mariam alaa 2402242542 ] Marketing, Payment and Delivery Analytics
-
 ## Project Idea
 
 This project analyzes an e-commerce sales dataset to identify important business patterns and insights related to customers, products, pricing, marketing, payments, delivery, returns, inventory, suppliers, weather, and seasonality.
